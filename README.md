@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Muhammad Hassan</h1>
-<h3 align="center">A passionate Data Analyst from Pakistan</h3>
+<h1 align="center">Muhammad Hassan</h1>
+<h3 align="center">Data Analyst | Python | SQL | Data Visualization|
+*Transforming data into insights*</h3>
 
 <img align="right" alt="coding" width="400" src="https://github.com/rudrabarad/Gifs">
 
