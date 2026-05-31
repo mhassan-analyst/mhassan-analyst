@@ -1,6 +1,5 @@
 <h1 align="center">Muhammad Hassan</h1>
-<h3 align="center">Data Analyst | Python | SQL | Data Visualization|
-*Transforming data into insights*</h3>
+<h3 align="center">Data Analyst | Python | SQL | Power BI for Data Visualization |</h3>
 
 <img align="right" alt="coding" width="400" src="https://github.com/rudrabarad/Gifs">
 
