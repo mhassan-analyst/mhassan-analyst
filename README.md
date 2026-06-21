@@ -1,7 +1,8 @@
 ![logo](https://github.com/mhassan-analyst/mhassan-analyst/blob/main/Orange%20and%20Black%20Modern%20Corporate%20Business%20Profile%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Muhammad Hassan</h1>
 <h3 align="center">Data Analyst | Python | SQL | Power BI for Data Visualization |</h3>
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/userupload/22906166/file/original-ffcac8e074af7de5e6ac6db9873dff66.gif">
+<img align="right" alt="coding" width="400" src="<img width="150" height="112" alt="People interacting with charts and analyzing statistics" src="https://github.com/user-attachments/assets/5c5e37c2-d196-44dd-bac9-fe782edcbf31" />
+">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mhassan-analyst&label=Profile%20views&color=0e75b6&style=flat" alt="mhassan-analyst" /> </p>
 - 📫 How to reach me **hassanbasharatbasharat7@gmail.com**
 <h3 align="left">Connect with me:</h3>
