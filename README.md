@@ -1,4 +1,4 @@
-![logo](https://github.com/mhassan-analyst/mhassan-analyst/blob/main/Orange%20and%20Black%20Modern%20Corporate%20Business%20Profile%20LinkedIn%20Banner.png)
+![logo](https://media.licdn.com/dms/image/v2/D4D16AQFrDxYpOZl79w/profile-displaybackgroundimage-shrink_350_1400/B4DZ9_iWMpGkAU-/0/1784551138436?e=1785974400&v=beta&t=4DGSzrEtoSfDUan6zBBNS9Z5tPeDVA58M14EqIqRsoA)
 <h1 align="center">Hi 👋, I'm Muhammad Hassan</h1>
 <h3 align="center">Data Analyst | Python | SQL | Power BI for Data Visualization |</h3>
 <img align="right" alt="coding" width="400" src="https://github.com/user-attachments/assets/b656ec36-c9ca-4415-9fa0-e04c718afaa6" />
