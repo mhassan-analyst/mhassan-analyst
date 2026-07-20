@@ -1,6 +1,7 @@
-![logo](https://media.licdn.com/dms/image/v2/D4D16AQFrDxYpOZl79w/profile-displaybackgroundimage-shrink_350_1400/B4DZ9_iWMpGkAU-/0/1784551138436?e=1785974400&v=beta&t=4DGSzrEtoSfDUan6zBBNS9Z5tPeDVA58M14EqIqRsoA)
+<img width="1400" height="349" alt="image" src="https://github.com/user-attachments/assets/7123be2e-2910-413e-b6f4-9de8c47c73f0" />
+
 <h1 align="center">Hi 👋, I'm Muhammad Hassan</h1>
-<h3 align="center">Data Analyst | Python | SQL | Power BI for Data Visualization |</h3>
+<h3 align="center">Data Analyst | Python | SQL | EXCEL | Power BI for Data Visualization |</h3>
 <img align="right" alt="coding" width="400" src="https://github.com/user-attachments/assets/b656ec36-c9ca-4415-9fa0-e04c718afaa6" />
 ">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mhassan-analyst&label=Profile%20views&color=0e75b6&style=flat" alt="mhassan-analyst" /> </p>
