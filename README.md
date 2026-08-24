@@ -5,7 +5,7 @@
 <img align="right" alt="coding" width="400" src="https://github.com/user-attachments/assets/b656ec36-c9ca-4415-9fa0-e04c718afaa6" />
 ">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mhassan-analyst&label=Profile%20views&color=0e75b6&style=flat" alt="mhassan-analyst" /> </p>
-- 📫 How to reach me **muhammadhassan674@gmail.com**
+- 📫 How to reach me **muhammadhassan5604@gmail.com**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/muhammad-hassan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad-hassan" height="30" width="40" /></a>
