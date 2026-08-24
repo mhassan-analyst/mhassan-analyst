@@ -2,8 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Muhammad Hassan</h1>
 <h3 align="center">Data Analyst | Python | SQL | EXCEL | Power BI for Data Visualization |</h3>
-<img align="right" alt="coding" width="400" src="https://github.com/user-attachments/assets/b656ec36-c9ca-4415-9fa0-e04c718afaa6" />
-">
+<img align="right" alt="coding" width="400" src="https://imarticus.org/blog/wp-content/uploads/2019/05/daonline.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mhassan-analyst&label=Profile%20views&color=0e75b6&style=flat" alt="mhassan-analyst" /> </p>
 - 📫 How to reach me **muhammadhassan5604@gmail.com**
 <h3 align="left">Connect with me:</h3>
