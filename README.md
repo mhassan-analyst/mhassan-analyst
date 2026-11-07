@@ -1,4 +1,4 @@
-<img width="1400" height="349" alt="image" src="https://media.licdn.com/dms/image/v2/D4D16AQEkUmOWtGD4vQ/profile-displaybackgroundimage-shrink_350_1400/B4DaGmtnbQLEAU-/0/1793798338643?e=1795651200&v=beta&t=AD9DCV8ioL8JjL-cLCGtStinzI8yYdqmxPbtiPInhMM" />
+<img width="1400" height="349" alt="image" src="https://media.licdn.com/dms/image/v2/D4D16AQGXO_dFID6kCw/profile-displaybackgroundimage-shrink_200_800/B4DaG2ZA3xK0AQ-/0/1794061373413?e=1795651200&v=beta&t=kgbm9lwIvSAQRVurwf6i7oo-C9WT9SwRAxn-JkeLqr4" />
 <h1 align="center">HI, I'M MUHAMMAD HASSAN 👋</h1>
 <h3 align="center">DATA ANALYST | PYTHON . SQL . EXCEL . POWER BI FOR DATA VISUALIZATION |</h3>
 <img align="right" alt="coding" width="400" src="https://imarticus.org/blog/wp-content/uploads/2019/05/daonline.gif">
